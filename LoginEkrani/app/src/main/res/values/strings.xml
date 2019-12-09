@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginEkrani</string>
+    <string name="username">Kullanıcı Adı </string>
+    <string name="password">Şifre </string>
+    <string name="login">GİRİŞ</string>
+    <string name="help">Yardım? </string>
+</resources>

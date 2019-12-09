@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_profil"
+        android:icon="@drawable/resim_profil"
+        android:title="Profil" />
+    <item
+        android:id="@+id/action_work"
+        android:icon="@drawable/resim_work"
+        android:title="Work" />
+    <item
+        android:id="@+id/action_shop"
+        android:icon="@drawable/resim_shop"
+        android:title="Shop" />
+</menu>

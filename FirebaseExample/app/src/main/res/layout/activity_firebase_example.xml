@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".FirebaseExample">
+
+    <EditText
+        android:id="@+id/edt_veri"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Göndereceğiniz veriyi giriniz..."
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textSize="16sp"
+        />
+    <Button
+        android:id="@+id/btn_veri_gonder"
+        android:text="Veriyi Gönder"
+        android:textSize="20sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_veri_goster"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Veriler burada gösterilecek"
+        android:layout_marginLeft="15dp"
+        android:textColor="#8A0B0B"
+        android:layout_marginRight="15dp"
+        android:textSize="16sp"
+        />
+    <Button
+        android:id="@+id/btn_veri_goster"
+        android:text="Veriyi Goster"
+        android:textSize="20sp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="#bde6dd"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

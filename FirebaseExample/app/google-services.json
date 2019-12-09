@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026673608722",
+    "firebase_url": "https://fir-example-9c268.firebaseio.com",
+    "project_id": "fir-example-9c268",
+    "storage_bucket": "fir-example-9c268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026673608722:android:f7d2352794220001cbf0cb",
+        "android_client_info": {
+          "package_name": "emreusta.com.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026673608722-00k38uflfmphi5kvpmn8e1d1lupjvj8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "emreusta.com.firebaseexample",
+            "certificate_hash": "93b33013123c632ab31f5c89b788c93e597609cb"
+          }
+        },
+        {
+          "client_id": "1026673608722-rlua4cvov0k0bidrf69f68bivc3c2as0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI_pLYbn8uJptCE-mUBh4pS6wHLxDv038"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026673608722-rlua4cvov0k0bidrf69f68bivc3c2as0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <item
+    android:id="@+id/menu_ekle"
+    android:title="Ekle"
+    android:icon="@drawable/firebase_add"
+    app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_guncelle"
+        android:title="Güncelle"
+        android:icon="@drawable/firebase_update"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_sil"
+        android:title="Sil"
+        android:icon="@drawable/firebase_delete"
+        app:showAsAction="always"/>
+
+</menu>
